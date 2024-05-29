@@ -1,0 +1,85 @@
+.about {
+    width: 100%;
+    height: 100vh;
+}
+.about__content {
+    transition: left 1500ms ease-out;
+    background-color: #101010;
+    border: white 5px solid;
+    overflow: hidden;
+    position: absolute;
+    width: 70%;
+    padding: 30px;
+    height: 60vh;
+    top: 50%;
+    left: 180%;
+    transform: translate(-50%, -50%);
+    background-image: url("../img/pixel.gif");
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.about__text {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 30px;
+    width: 30%;
+    height: 100%;
+    background-color: #101010ee;
+    border-right: white 3px solid;
+}
+.about__title {
+    color: white;
+}
+.about__description {
+    color: white;
+}
+.colorYellow {
+    color: #F3E600;
+}
+.colorRed {
+    color: #FF003C;
+}
+.about__btn {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #ffffff00;
+    border: #fff 3px solid;
+    color: white;
+    text-transform: uppercase;
+    height: 50px;
+    width: 150px;
+    animation: arrowAnimation 2s ease-in-out infinite;
+    transition: border 300ms, background-color 300ms;
+}
+.about__btn:hover {
+    border: #ffffff00 3px solid;
+    color: black;
+    background-color: #ffffff;
+}
+@keyframes arrowAnimation {
+    0% {
+        bottom: 10px;
+    }
+    50% {
+        bottom: 20px;
+    }
+    100% {
+        bottom: 10px;
+    }
+}
+#arrow {
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    transform: rotate(90deg);
+    margin: 0 auto;
+    fill: white;
+    transition: fill 300ms;
+}
+#arrow:hover {
+    fill: #101010;
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "StudioHarly",
+        "img": "SH.jpg",
+        "url": "https://xdam99.github.io/Studio-Harly/",
+        "class": "studio-harly"
+    },
+    {
+        "name": "Eclectic Summer festival",
+        "img": "eclecticsummer.jpg",
+        "url": "https://eclecticsummerfestival.vercel.app/?fbclid=IwZXh0bgNhZW0CMTAAAR2v7oDUXrD_pQAfjn5FXGUI4DcKf5lPc4q2PsHNVseOXPaTxQfIyXg8YKA_aem_AZbHca2jo1h9Elpm_JbvriB9uUVdhJCoLWlbImvPxUMWGFk8pU522AYyXPS6ZEUXl0wHizvSYn-LGmnIZpPC44V7",
+        "class": "eclectic"
+    },
+    {
+        "name": "Meet The Stars",
+        "img": "meetthestars.jpg",
+        "url": "https://xdam99.github.io/Meet-The-Stars/",
+        "class": "meet-the-stars"
+    },
+    {
+        "name": "Morpion",
+        "img": "tictactoe.jpg",
+        "url": "https://xdam99.github.io/Morpion/",
+        "class": "tic-tac-toe"
+    }
+]

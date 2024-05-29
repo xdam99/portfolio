@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Studio Harly",
+        "nbImg": 2,
+        "imgBlack": "logoSH_transBlack.png",
+        "imgWhite": "logoSH_transWhite.png",
+        "altBlack": "logo StudioHarly en fond noir",
+        "altWhite": "logo StudioHarly en fond blanc"
+    },
+    {
+        "name": "Afterlife",
+        "nbImg": 2,
+        "imgBlack": "afterlifeW.jpg",
+        "imgWhite": "afterlife.png",
+        "altBlack": "logo Afterlife en fond noir",
+        "altWhite": "logo Afterlife en fond blanc"
+    },
+    {
+        "name": "CDK",
+        "nbImg": 2,
+        "imgWhite": "CDK2.png",
+        "imgBlack": "CDK2.png",
+        "altBlack": "logo CDK en fond noir",
+        "altWhite": "logo CDK en fond blanc"
+    },
+    {
+        "name": "Wroz",
+        "nbImg": 1,
+        "img": "Logo wroz.png",
+        "alt": "logo Wroz"
+    }
+]
